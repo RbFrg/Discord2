@@ -1,2 +1,1 @@
-Ceci est un projet en C# et il a pour but de crée une application avec une communication entre serveur et client dans le but de pouvoir discuter avec ces amis ou collègues.
-Il va aussi intégré des channels autres que des channels écrit comme un chat vocal, un chat de gestion de projet, etc...
+Ceci est le BackEnd de notre projet en C#
